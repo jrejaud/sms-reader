@@ -1,0 +1,15 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Rejaud",
+  "license": "ISC",
+  "dependencies": {
+    "basic-auth": "^1.1.0",
+    "pushbullet": "^2.0.0"
+  }
+}
